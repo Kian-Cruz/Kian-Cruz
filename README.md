@@ -1,6 +1,12 @@
 # Hi, I'm Yazar Hein (Kian) 
 
 ### AI-Assisted Digital Product Builder
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI-Assisted+Digital+Product+Builder;Prompt+Engineering+%7C+Digital+Products;Turning+Ideas+Into+Working+Solutions"
+    alt="Typing SVG"
+  />
+</p>
 
 I build practical digital products by combining AI, prompt engineering, and modern web technologies.
 
