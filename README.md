@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Yazar Hein (Kian) 👋
 
-<!--
-**Kian-Cruz/Kian-Cruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI-Assisted Digital Product Builder
 
-Here are some ideas to get you started:
+I build practical digital products by combining AI, prompt engineering, and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Instead of focusing only on writing code from scratch, I enjoy turning ideas into working products through problem-solving, iteration, testing, and deployment.
+
+---
+
+## Currently Building
+
+-  AI-Assisted Digital Products
+-  Modern Web Applications
+-  Full-Stack E-commerce Projects
+-  Prompt Engineering Workflows
+
+---
+
+## Featured Projects
+
+### HONEYSTORE — Full-Stack E-commerce Platform
+
+A modern e-commerce platform built with an AI-assisted development workflow.
+
+**Tech Stack**
+
+- Next.js
+- React
+- NestJS
+- PostgreSQL
+- Prisma
+- Vercel
+
+---
+
+### Kian's Portfolio
+
+My personal portfolio showcasing projects, skills, and continuous learning.
+
+Live Portfolio:
+https://kians-portfolio.vercel.app
+
+---
+
+## Tech Stack
+
+| Area | Technologies |
+|------|-------------|
+| Frontend | Next.js · React |
+| Backend | NestJS |
+| Database | PostgreSQL · MySQL |
+| Tools | Git · GitHub · Vercel |
+| AI | Prompt Engineering |
+
+---
+
+## Connect With Me
+
+- Portfolio: https://kians-portfolio.vercel.app
+- LinkedIn: linkedin.com/in/yazarhein
+- GitHub: github.com/Kian-Cruz
+
+---
+
+> Building practical solutions at the intersection of AI, technology, and business.
