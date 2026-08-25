@@ -62,5 +62,12 @@ https://kians-portfolio.vercel.app
 - GitHub: github.com/Kian-Cruz
 
 ---
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kian-Cruz/Kian-Cruz/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
 
 > Building practical solutions at the intersection of AI, technology, and business.
