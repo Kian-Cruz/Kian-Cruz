@@ -1,4 +1,4 @@
-# Hi, I'm Yazar Hein (Kian) 👋
+# Hi, I'm Yazar Hein (Kian) 
 
 ### AI-Assisted Digital Product Builder
 
