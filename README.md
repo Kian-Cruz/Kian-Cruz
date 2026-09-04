@@ -37,6 +37,7 @@ A modern e-commerce platform built with an AI-assisted development workflow.
 - PostgreSQL
 - Prisma
 - Vercel
+- Supabase
 
 ---
 
